@@ -14,7 +14,7 @@ A simple travel website developed using HTML, CSS, and JavaScript.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/Travel-Website.git
+   git clone (https://github.com/XolaniLan/StayBnb-Traveling-Website.git)
    ```
 
 2. Open the project folder:
